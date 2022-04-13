@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/b3-redesign/static/css/main.c0bf9095.chunk.css",
+    "main.js": "/b3-redesign/static/js/main.ebff5689.chunk.js",
+    "main.js.map": "/b3-redesign/static/js/main.ebff5689.chunk.js.map",
+    "runtime-main.js": "/b3-redesign/static/js/runtime-main.c87c20d7.js",
+    "runtime-main.js.map": "/b3-redesign/static/js/runtime-main.c87c20d7.js.map",
+    "static/js/2.10168e64.chunk.js": "/b3-redesign/static/js/2.10168e64.chunk.js",
+    "static/js/2.10168e64.chunk.js.map": "/b3-redesign/static/js/2.10168e64.chunk.js.map",
+    "static/js/3.a26a6d31.chunk.js": "/b3-redesign/static/js/3.a26a6d31.chunk.js",
+    "static/js/3.a26a6d31.chunk.js.map": "/b3-redesign/static/js/3.a26a6d31.chunk.js.map",
+    "index.html": "/b3-redesign/index.html",
+    "static/css/main.c0bf9095.chunk.css.map": "/b3-redesign/static/css/main.c0bf9095.chunk.css.map",
+    "static/js/2.10168e64.chunk.js.LICENSE.txt": "/b3-redesign/static/js/2.10168e64.chunk.js.LICENSE.txt",
+    "static/media/b3logo.057bef10.svg": "/b3-redesign/static/media/b3logo.057bef10.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87c20d7.js",
+    "static/js/2.10168e64.chunk.js",
+    "static/css/main.c0bf9095.chunk.css",
+    "static/js/main.ebff5689.chunk.js"
+  ]
+}
